@@ -1,0 +1,6 @@
+Namn;Ålder
+Joakim;22
+Pierre;60
+Luna;45
+Bob;18
+Lina;28
