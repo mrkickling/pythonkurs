@@ -18,3 +18,5 @@ Ditt Pythonprogram bör nu köras i ett nytt fönster och du får se dess result
 
 # Guide för att köra Python-program med Terminal
 Kommer snart
+
+https://docs.google.com/presentation/d/14U7-338xG2zMQ4BtX2YXMyyqog90QnIur0crCTXjNm0/edit?usp=sharing
