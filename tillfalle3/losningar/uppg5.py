@@ -1,5 +1,4 @@
 # En funktion som hittar maxvärdet i en lista
-
 def my_max(lista):
     max = -float("inf") # det minsta talet som finns
     for heltal in lista:

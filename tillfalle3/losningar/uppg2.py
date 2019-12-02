@@ -1,3 +1,4 @@
+# Skriver namn på ny rad i filen "namnlista.txt"
 f = open("namnlista.txt","a")
 f_name = input("Förnamn: ")
 l_name = input("Efternamn: ")
