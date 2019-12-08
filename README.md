@@ -20,7 +20,9 @@ Ditt Pythonprogram bör nu köras i ett nytt fönster och du får se dess result
 Kommer snart
 
 PRES3: https://docs.google.com/presentation/d/14U7-338xG2zMQ4BtX2YXMyyqog90QnIur0crCTXjNm0/edit?usp=sharing
+
 PRES4: https://docs.google.com/presentation/d/1KHqc9PUGVOBogIajrwfWhcMhe2hZ2EC6TQhoRe3D1d8/edit?usp=sharing
+
 PRES5: https://docs.google.com/presentation/d/1kE36Xnrl8O110KLICToBkSuJ1SvvsKAajGfMHDnQlso/edit?usp=sharing
 
 LÄNK VÄDERAPI: https://api.openweathermap.org/data/2.5/weather?q=Stockholm&appid=831c45d6783bf7371e3237d852d5daf8
