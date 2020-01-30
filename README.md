@@ -1,5 +1,5 @@
 # pythonkurs
-Kurs i Python folkuniversitet HT19
+Kurs i Python folkuniversitet HT20
 
 # Guide för att installera Python 
 1. Gå in på länken: https://www.python.org/downloads/
@@ -26,3 +26,5 @@ PRES4: https://docs.google.com/presentation/d/1KHqc9PUGVOBogIajrwfWhcMhe2hZ2EC6T
 PRES5: https://docs.google.com/presentation/d/1kE36Xnrl8O110KLICToBkSuJ1SvvsKAajGfMHDnQlso/edit?usp=sharing
 
 LÄNK VÄDERAPI: https://api.openweathermap.org/data/2.5/weather?q=Stockholm&appid=831c45d6783bf7371e3237d852d5daf8
+
+https://docs.google.com/presentation/d/1nssC1B2IM4aoGZtlUZQbSq2_waRzlgMrHdfFEduzL2c/edit?usp=sharing
