@@ -1,5 +1,5 @@
 # pythonkurs
-Kurs i Python folkuniversitet HT19
+Kurs i Python folkuniversitet HT20
 
 # Guide för att installera Python 
 1. Gå in på länken: https://www.python.org/downloads/
