@@ -1,11 +1,6 @@
-# Gör en nedräknare för en raket
-# 10... 9... 8... 7... ... osv ... LIFT OFF!
-# Använd time.sleep!
+Summera (plussa ihop) alla tal från 0 till och med 1000 och printa resultatet
 
-import time # Vi importerar modulen time
-
-for i in range(10): # Vi går igenom alla tal från 0 till 10
-    print(10 - i) # Vi printar 10 - i, vilket kommer bli 10, 9, 8, osv...
-    time.sleep(1) # Vi "pausar" programmet i en sekund
-
-print("LIFT OFF!") # När loopen är färdig så printas "LIFT OFF"
+sum = 0 # Variabel för att spara summan
+for i in range(0, 1001):
+    sum += i
+print sum
