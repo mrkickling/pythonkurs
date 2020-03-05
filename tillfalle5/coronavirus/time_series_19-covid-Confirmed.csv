@@ -1,0 +1,152 @@
+Province;Country;Cases
+Anhui;Mainland China;990
+Beijing;Mainland China;414
+Chongqing;Mainland China;576
+Fujian;Mainland China;296
+Gansu;Mainland China;91
+Guangdong;Mainland China;1350
+Guangxi;Mainland China;252
+Guizhou;Mainland China;146
+Hainan;Mainland China;168
+Hebei;Mainland China;318
+Heilongjiang;Mainland China;480
+Henan;Mainland China;1272
+Hubei;Mainland China;67217
+Hunan;Mainland China;1018
+Inner Mongolia;Mainland China;75
+Jiangsu;Mainland China;631
+Jiangxi;Mainland China;935
+Jilin;Mainland China;93
+Liaoning;Mainland China;125
+Ningxia;Mainland China;74
+Qinghai;Mainland China;18
+Shaanxi;Mainland China;245
+Shandong;Mainland China;758
+Shanghai;Mainland China;338
+Shanxi;Mainland China;133
+Sichuan;Mainland China;538
+Tianjin;Mainland China;136
+Tibet;Mainland China;1
+Xinjiang;Mainland China;76
+Yunnan;Mainland China;174
+Zhejiang;Mainland China;1213
+;Thailand;43
+;Japan;293
+;South Korea;5186
+Taiwan;Taiwan;42
+King County, WA;US;21
+Cook County, IL;US;4
+Tempe, AZ;US;1
+Macau;Macau;10
+Hong Kong;Hong Kong;100
+;Singapore;110
+;Vietnam;16
+;France;204
+;Nepal;1
+;Malaysia;36
+Toronto, ON;Canada;19
+British Columbia;Canada;9
+Orange, CA;US;1
+Los Angeles, CA;US;1
+New South Wales;Australia;13
+Victoria;Australia;9
+Queensland;Australia;11
+;Cambodia;1
+;Sri Lanka;1
+;Germany;196
+;Finland;6
+;United Arab Emirates;27
+;Philippines;3
+;India;5
+London, ON;Canada;1
+;Italy;2502
+;UK;51
+;Russia;3
+;Sweden;21
+Santa Clara, CA;US;11
+;Spain;165
+South Australia;Australia;3
+Boston, MA;US;1
+San Benito, CA;US;2
+;Belgium;13
+Madison, WI;US;1
+Diamond Princess cruise ship;Others;706
+San Diego County, CA;US;2
+San Antonio, TX;US;1
+;Egypt;2
+;Iran;2336
+Omaha, NE (From Diamond Princess);US;0
+Travis, CA (From Diamond Princess);US;0
+From Diamond Princess;Australia;0
+Lackland, TX (From Diamond Princess);US;0
+;Lebanon;13
+Humboldt County, CA;US;1
+Sacramento County, CA;US;2
+;Iraq;32
+Unassigned Location (From Diamond Princess);US;45
+;Oman;12
+;Afghanistan;1
+;Bahrain;49
+;Kuwait;56
+;Algeria;5
+;Croatia;9
+;Switzerland;56
+;Austria;21
+;Israel;12
+;Pakistan;5
+;Brazil;2
+;Georgia;3
+;Greece;7
+;North Macedonia;1
+;Norway;32
+;Romania;3
+;Denmark;6
+;Estonia;2
+;Netherlands;24
+;San Marino;10
+;Belarus;1
+ Montreal, QC;Canada;1
+;Iceland;11
+;Lithuania;1
+;Mexico;5
+;New Zealand;1
+;Nigeria;1
+Western Australia;Australia;2
+;Ireland;2
+;Luxembourg;1
+;Monaco;1
+;Qatar;7
+Snohomish County, WA;US;6
+;Ecuador;7
+;Azerbaijan;3
+;Czech Republic;5
+;Armenia;1
+;Dominican Republic;1
+Providence, RI;US;2
+;Indonesia;2
+;Portugal;2
+;Andorra;1
+Tasmania;Australia;1
+;Latvia;1
+;Morocco;1
+;Saudi Arabia;1
+;Senegal;2
+Grafton County, NH;US;2
+Hillsborough, FL;US;2
+New York City, NY;US;1
+Placer County, CA;US;1
+San Mateo, CA;US;2
+Sarasota, FL;US;1
+Sonoma County, CA;US;1
+Umatilla, OR;US;1
+Fulton County, GA;US;2
+Washington County, OR;US;2
+;Argentina;1
+;Chile;1
+;Jordan;1
+ Norfolk County, MA;US;1
+Berkeley, CA;US;1
+Maricopa County, AZ;US;1
+Wake County, NC;US;1
+Westchester County, NY;US;1
+;Ukraine;1
