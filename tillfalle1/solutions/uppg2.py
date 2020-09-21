@@ -3,6 +3,7 @@
 # Lösningsförslag (såklart inte enda sättet!)
 
 # ber om den första siffran, gör om till decimaltal och sparar i variabel a
+# float används istället för int, men int är också okej!
 a = float(input("Skriv en siffra "))
 
 # ber om den andra siffran, gör om till decimaltal och sparar i variabel b

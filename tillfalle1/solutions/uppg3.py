@@ -1,12 +1,13 @@
-# Uppgift 3: Skapa ett program (even.py) som tar in ett heltal (int) och
-# som printar Ja! om talet är jämnt och Nej! om talet är udda. Tips: modulo (%)
-# Lösningsförslag (såklart inte enda sättet!)
+# Uppgift 4: Skapa ett program (greeting.py) som tar in ett förnamn
+# och ett efternamn och åldern och printar ut en hälsning som använder
+# sig av den informationen, t.ex. “Hej Förnamn Efternamn, du är 18 år”
 
-# ber om heltalet, gör om till int och sparar i variabeln heltal
-heltal = int(input("Skriv in ett heltal "))
+# Ber om förnamn och lagrar det i variabeln fornamn (kommer att vara en sträng)
+fornamn = input("Förnamn: ")
+# Ber om efternamn och lagrar det i variabeln efternamn (kommer att vara en sträng)
+efternamn = input("Efternamn: ")
+# Ber om ålder och lagrar i age (ok att det är en sträng, då vi bara ska printa det)
+age = input("Ålder: ")
 
-# Om heltal modulo 2 är 0 så är heltal delbart i 2
-if heltal % 2 == 0:
-    print("Ja!")
-else:
-    print("Nej!")
+print("Hej " + fornamn + " " + efternamn + "! Du är " + age + " år.")
+# Går också med print("Hej", fornamn, efternamn, " du är", age, "år.")
