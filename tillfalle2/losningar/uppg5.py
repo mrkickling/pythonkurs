@@ -12,8 +12,7 @@ slumptal = random.randrange(100)
 # Sedan ber vi användaren om en gissning
 gissning = int(input("Gissa vilket talet är: "))
 
-
-while gissning is not slumptal:
+while gissning != slumptal:
     if gissning > slumptal:
         print("Gissa lägre! ")
     else:
