@@ -1,10 +1,17 @@
-# En funktion som hittar maxvärdet i en lista
-def my_max(lista):
-    max = -float("inf") # det minsta talet som finns
-    for heltal in lista:
-        if heltal > max:
-            max = heltal
-    return max
+# En funktion som kontrollerar om en sträng är ett palindrom
+def my_reverse(meddelande):
+    resultat = "" # Tom sträng
+    antal_bokstaver = len(meddelande)
+    for index in range( antal_bokstaver ):
+        # Gå igenom varje index för varje bokstav i meddelande
+        resultat += meddelande[antal_bokstaver - 1 - index]
+    return resultat
 
+def is_palindrom(meddelande):
+    if meddelande == my_reverse(meddelande):
+        return True
+    else:
+        return False
 
-print(my_max([100000, 2, 3000000, 4, 5, -1000]))
+print(is_palindrom("hejsan"))
+print(is_palindrom("fallaf"))

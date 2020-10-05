@@ -1,1 +1,1 @@
-# Ges som upppgift vid nästa tillfälle
+# Presenteras vid nästa tillfälle

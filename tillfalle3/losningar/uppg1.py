@@ -6,3 +6,4 @@ f = open(filnamn,"w")
 
 # Kommer du ihåg vad \n representerar för något?
 f.write("valfritt")
+f.close()

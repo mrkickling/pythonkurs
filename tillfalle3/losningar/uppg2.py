@@ -7,3 +7,5 @@ age = input("Ålder: ")
 # Kommer du ihåg vad \n representerar för något?
 f.write(f_name + " " + l_name + ": " + age + "\n")
 f.close()
+
+# Hur kan vi fråga användaren 3 gånger utan att kopiera och klista in all kod tre gånger?
