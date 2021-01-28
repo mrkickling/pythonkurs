@@ -30,6 +30,7 @@ Ditt program bör köras. Gör likadant för att skapa nya program, men döp dom
 
 ## Windows
 Bör ungefär vara samma som Mac, men du använder dig av 'cmd' eller 'powershell' istället för 'Terminal'
+
 PRES1: https://docs.google.com/presentation/d/1nssC1B2IM4aoGZtlUZQbSq2_waRzlgMrHdfFEduzL2c/edit?usp=sharing
 
 PRES3: https://docs.google.com/presentation/d/14U7-338xG2zMQ4BtX2YXMyyqog90QnIur0crCTXjNm0/edit?usp=sharing
