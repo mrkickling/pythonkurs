@@ -33,6 +33,8 @@ Bör ungefär vara samma som Mac, men du använder dig av 'cmd' eller 'powershel
 
 PRES1: https://docs.google.com/presentation/d/1nssC1B2IM4aoGZtlUZQbSq2_waRzlgMrHdfFEduzL2c/edit?usp=sharing
 
+PRES2: https://docs.google.com/presentation/d/1mOarrYHtVP_o4gcmU_SdznXq9s_n1H5rTwt7H7gkOQM/edit?usp=sharing
+
 PRES3: https://docs.google.com/presentation/d/14U7-338xG2zMQ4BtX2YXMyyqog90QnIur0crCTXjNm0/edit?usp=sharing
 
 PRES4: https://docs.google.com/presentation/d/1KHqc9PUGVOBogIajrwfWhcMhe2hZ2EC6TQhoRe3D1d8/edit?usp=sharing
