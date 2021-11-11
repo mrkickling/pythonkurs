@@ -3,7 +3,7 @@
 # Lösningsförslag 2
 
 # Skapar en lista med alla vokaler och lägger i variabeln vokaler
-vokaler = ["a", "e", "i", "o", "u", "y", "å", "ä", "ö"]
+vokaler = "aeiouyåäö"
 
 # Hämtar indata i form av en bokstav och gör den till små bokstäver/gemener (lower case)
 # och lägger den i variabeln bokstav
