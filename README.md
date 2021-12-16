@@ -44,3 +44,8 @@ PRES5: https://docs.google.com/presentation/d/1kE36Xnrl8O110KLICToBkSuJ1SvvsKAaj
 LÄNK VÄDERAPI: https://api.openweathermap.org/data/2.5/weather?q=Stockholm&appid=831c45d6783bf7371e3237d852d5daf8
 
 https://docs.google.com/presentation/d/1nssC1B2IM4aoGZtlUZQbSq2_waRzlgMrHdfFEduzL2c/edit?usp=sharing
+
+SL PLATSUPPSLAG: https://api.sl.se/api2/typeahead.json?key=<NYCKEL>&searchstring=slussen%&maxresults=1 
+
+SL REALTID: https://api.sl.se/api2/realtimedeparturesV4.json?key=<NYCKEL>&siteid=9192&timewindow=5 
+
